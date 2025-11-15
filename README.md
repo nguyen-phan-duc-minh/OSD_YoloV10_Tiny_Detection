@@ -2,6 +2,9 @@
 
 A complete production-ready implementation for the Drone Object Detection Challenge, featuring **Ultra-Light OSD-YOLOv10** architecture optimized for NVIDIA Jetson Xavier NX deployment.
 
+**Author:** Nguyễn Phan Đức Minh  
+**Role:** AI Researcher | Deep Learning, Machine Learning
+
 ## Key Features
 
 - **Ultra-Light OSD-YOLOv10**: Optimized Small object Detection YOLOv10 with <50M parameters
